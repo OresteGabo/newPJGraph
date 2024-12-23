@@ -1,0 +1,5 @@
+/home/oreste/CLionProjects/newPJGraph/cmake-build-debug/CMakeFiles/newPJGraph.dir
+/home/oreste/CLionProjects/newPJGraph/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/CLionProjects/newPJGraph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oreste/CLionProjects/newPJGraph/cmake-build-debug/CMakeFiles/newPJGraph_autogen_timestamp_deps.dir
+/home/oreste/CLionProjects/newPJGraph/cmake-build-debug/CMakeFiles/newPJGraph_autogen.dir
